@@ -14,6 +14,7 @@ This project from pacmann.io to solve supermarket business problem using self se
 ![FlowChart_page-0002](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/11537bfe-fef9-461e-9b20-8d4d0032a1bd)
 
 # Hasil Test Case
+TEST 1
 
 ![1](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/9aaae950-cefe-4fa7-b890-f47158b31b8b)
 
