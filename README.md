@@ -15,6 +15,7 @@ This project from pacmann.io to solve supermarket business problem using self se
 
 # Hasil Test Case
 TEST 1
+- Memasukkan ID Transaksi lalu menggunakan method add_item untuk menambahkan item Ayam Goreng dengan jumlah 2 seharga 20000 dan Pasta Gigi dengan jumlah 3 seharga 15000
 
 ![1](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/9aaae950-cefe-4fa7-b890-f47158b31b8b)
 
