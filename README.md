@@ -26,9 +26,12 @@ TEST 1
 ![4](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/cf41a963-0384-45d6-bc7b-bd6a9abd107e)
 
 TEST 2
-- Menghapus salah satu item yaitu Pasta Gigi
+- Menghapus salah satu item yaitu Pasta Gigi yang sudah dimasukkan keranjang dengan method delete_item
 
 ![5](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/e60e75d0-f500-4b05-b575-fc044bab188e)
+
+TEST 3
+- Menghapus semua transaksi yang sudah dimasukkan keranjang reset_transaction
 
 ![6](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/88d97e07-f3d0-4ed5-9041-270efe51857f)
 
