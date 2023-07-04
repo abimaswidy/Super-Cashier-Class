@@ -36,6 +36,6 @@ TEST 3
 ![6](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/88d97e07-f3d0-4ed5-9041-270efe51857f)
 
 TEST 4
--Memasukkan kembali beberapa item lalu melakukan transaksi pembelian dengan method total_price yang sudah disesuaikan dengan ketentuan diskonnya
+- Memasukkan kembali beberapa item lalu melakukan transaksi pembelian dengan method total_price yang sudah disesuaikan dengan ketentuan diskonnya
 
 ![7](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/d0dfc82e-7e4e-44e5-99d0-f04605e70703)
