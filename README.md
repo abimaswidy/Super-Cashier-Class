@@ -28,14 +28,16 @@ TEST 1
 TEST 2
 - Menghapus salah satu item yaitu Pasta Gigi yang sudah dimasukkan keranjang dengan method delete_item
 
-![5](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/e60e75d0-f500-4b05-b575-fc044bab188e)
+![5](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/5f50c96e-5322-4008-bf8c-1531927e19ff)
 
 TEST 3
 - Menghapus semua transaksi yang sudah dimasukkan keranjang dengan method reset_transaction
 
-![6](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/88d97e07-f3d0-4ed5-9041-270efe51857f)
+![6](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/926106f2-670b-4b82-bff8-50bf578a0d99)
+
+![7](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/c915970e-681d-4a6e-a098-e7130e9fa7eb)
 
 TEST 4
 - Memasukkan kembali beberapa item lalu melakukan transaksi pembelian dengan method total_price yang sudah disesuaikan dengan ketentuan diskonnya
 
-![7](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/d0dfc82e-7e4e-44e5-99d0-f04605e70703)
+![8](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/a437d930-918a-438e-93e3-e012b26c0e7c)
