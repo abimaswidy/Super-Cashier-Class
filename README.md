@@ -19,11 +19,11 @@ TEST 1
 
 ![1](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/9aaae950-cefe-4fa7-b890-f47158b31b8b)
 
-![2](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/f7343748-8138-46c1-b580-5386169c1d8e)
+![2](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/18df13d1-69d0-409c-a3b1-e1100e21100f)
 
-![3](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/6f7444af-1250-43c0-a211-8373a437c1dd)
+![3](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/dd0f23c7-9987-4efb-a778-c30ba76b1e2d)
 
-![4](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/cf41a963-0384-45d6-bc7b-bd6a9abd107e)
+![4](https://github.com/abimaswidy/Super-Cashier-Class/assets/136919706/9362856a-658e-45a7-811a-a87ac4d62dc9)
 
 TEST 2
 - Menghapus salah satu item yaitu Pasta Gigi yang sudah dimasukkan keranjang dengan method delete_item
